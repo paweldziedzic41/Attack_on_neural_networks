@@ -2,4 +2,5 @@
 - Folder "aux_models" zawiera utworzone modele z zaimplementowanym mechanizmem Auxilary Defense Model
 - Folder "notebooks" zawiera pliki .ipynb z kodami żródłowymi
 - Folder "data" zawiera zbiór danych oraz obliczone metryki
+- Folder "attack_metrics_on_defense_models" zawiera metryki modeli defensywnych po poszczególnych atakach
 - Plik "model.h5" to model główny

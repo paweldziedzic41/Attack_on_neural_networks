@@ -1,0 +1,5 @@
+- Folder "models" zawiera utworzone modele z zaimplementowanymi mechanizami obrony ( z wyłączeniem mechanizmu Auxilary Defense Model )
+- Folder "aux_models" zawiera utworzone modele z zaimplementowanym mechanizmem Auxilary Defense Model
+- Folder "notebooks" zawiera pliki .ipynb z kodami żródłowymi
+- Folder "data" zawiera zbiór danych oraz obliczone metryki
+- Plik "model.h5" to model główny
